@@ -13,4 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-![WavePortal](/frontend/public/WavePortal.png)
+![WavePortal](/frontend/public/block_09.png)
