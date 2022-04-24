@@ -13,5 +13,3 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-
-## contract deployed on " 0x146aD27393ee56EaB6136d5e47fdF5Fb3Ff64c03 "
